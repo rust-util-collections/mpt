@@ -1,0 +1,13 @@
+[package]
+name = "mpt"
+version = "0.1.0"
+edition = "2021"
+authors = ["fhfanhui@gmail.com"]
+description = "Merkle Patricia Trie."
+homepage = "https://github.com/rust-util-collections/mpt"
+repository = "https://github.com/rust-util-collections/mpt"
+keywords = ["mpt", "merkle", "blockchain", "tree", "version"]
+categories = ["database-implementations", "data-structures", "algorithms"]
+license = "GPL-3.0"
+
+[dependencies]
